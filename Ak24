@@ -1,0 +1,6 @@
+echo "# PLSQL" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ashok241993/PLSQL.git
+git push -u origin master
